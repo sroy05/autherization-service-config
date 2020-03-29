@@ -1,0 +1,1 @@
+# autherization-service-config
